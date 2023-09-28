@@ -266,6 +266,9 @@ input, select, textarea {
 		box-sizing: border-box;
 		align-items: stretch;
 	}
+		.row > .col-5ths {
+			width: 20%;
+		}
 
 		.row > * {
 			box-sizing: border-box;
@@ -581,7 +584,7 @@ input, select, textarea {
 				.row > .col-5-wide {
 					width: 41.66667%;
 				}
-
+				
 				.row > .off-5-wide {
 					margin-left: 41.66667%;
 				}
